@@ -13,6 +13,6 @@ int main()
      average = sum/n;
 
      printf("Average = %d", average);
-
+nothing
      return 0;
 }
